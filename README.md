@@ -10,3 +10,5 @@ Run this single command in your terminal (from the project directory):
 
 ```bash
 cargo build --release && sudo cp target/release/rl /usr/local/bin/rl && sudo chown root:root /usr/local/bin/rl && sudo chmod u+s /usr/local/bin/rl
+
+##I drew inspiration from ZL when creating this project. [zl](https://codeberg.org/samposa_1337/zl)
